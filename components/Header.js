@@ -77,7 +77,7 @@ const Header = () => {
                     "..." +
                     String(walletAddress).substring(38)
                   ) : (
-                    <span>Connect Wallett</span>
+                    <span>지갑 연결하기</span>
                   )}
                 </a>
               </li>
